@@ -1,0 +1,2 @@
+C:\ADRIAN\UTESA\APP\ProyectoWebAPI\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\ADRIAN\UTESA\APP\ProyectoWebAPI\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
